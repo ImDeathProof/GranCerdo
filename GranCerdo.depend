@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1655444301 source:c:\users\elias\documents\elias\facultad\[materia] laboratorio de computacion 1\tp integrador\juego gran cerdo\grancerdo\main.cpp
+	<iostream>
+	"librerias.h"
+	"funciones.h"
+
+1655440659 c:\users\elias\documents\elias\facultad\[materia] laboratorio de computacion 1\tp integrador\juego gran cerdo\grancerdo\librerias.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<string>
+	"funciones.h"
+	"rlutil.h"
+
+1655443546 c:\users\elias\documents\elias\facultad\[materia] laboratorio de computacion 1\tp integrador\juego gran cerdo\grancerdo\funciones.h
+	"librerias.h"
+	"rlutil.h"
+
+1571584339 c:\users\elias\documents\elias\facultad\[materia] laboratorio de computacion 1\tp integrador\juego gran cerdo\grancerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656466897 source:d:\tomi\downloads\grancerdo\recurso.rc
+
+1656565746 source:d:\tomi\downloads\grancerdo\main.cpp
+	<iostream>
+	"librerias.h"
+	"funciones.h"
+
+1656466897 d:\tomi\downloads\grancerdo\librerias.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<string>
+	"funciones.h"
+	"rlutil.h"
+	"ctype.h"
+	"stdio.h"
+
+1656569485 d:\tomi\downloads\grancerdo\funciones.h
+	"librerias.h"
+	"rlutil.h"
+
+1656466897 d:\tomi\downloads\grancerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656466897 source:d:\tomi\downloads\gran_cerdo\recurso.rc
+
+1656653465 source:d:\tomi\downloads\gran_cerdo\main.cpp
+	<iostream>
+	"librerias.h"
+	"funciones.h"
+
+1656466897 d:\tomi\downloads\gran_cerdo\librerias.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<string>
+	"funciones.h"
+	"rlutil.h"
+	"ctype.h"
+	"stdio.h"
+
+1656654012 d:\tomi\downloads\gran_cerdo\funciones.h
+	"librerias.h"
+	"rlutil.h"
+
+1656466897 d:\tomi\downloads\gran_cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656466897 source:d:\tomi\downloads\gran_cerdo0250am\recurso.rc
+
+1656656468 source:d:\tomi\downloads\gran_cerdo0250am\main.cpp
+	<iostream>
+	"librerias.h"
+	"funciones.h"
+
+1656466897 d:\tomi\downloads\gran_cerdo0250am\librerias.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<string>
+	"funciones.h"
+	"rlutil.h"
+	"ctype.h"
+	"stdio.h"
+
+1656656634 d:\tomi\downloads\gran_cerdo0250am\funciones.h
+	"librerias.h"
+	"rlutil.h"
+
+1656466897 d:\tomi\downloads\gran_cerdo0250am\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656466897 source:c:\users\elias\documents\elias\facultad\[materia] laboratorio de computacion 1\tp integrador\gran_cerdo342am\gran_cerdo342am\recurso.rc
+
+1656466897 source:c:\users\elias\documents\elias\facultad\1ero primer cuatrimestre\[materia] laboratorio de computacion 1\tp integrador\gran cerdo\gran_cerdofinal\recurso.rc
+
